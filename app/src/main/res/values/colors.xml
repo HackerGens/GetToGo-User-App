@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DC143C</color>
+    <color name="colorPrimaryDark">#EA244A</color>
+    <color name="colorAccent">#B91233</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorRed">#DC143C</color>
+    <color name="colorblue">#673AB7</color>
+
+    <color name="grey">#808080</color>
+    <color name="background">#C3120603</color>
+
+    <color name="black">#000000</color>
+    <color name="light_grey">#E4E4E4</color>
+    <color name="lightorange">#F37006</color>
+    <color name="green">#7fa208</color>
+    <color name="btnback">#979797</color>
+
+    <color name="orange">#F54E21</color>
+    <color name="gray">#868686</color>
+    <color name="gray_light">#808080</color>
+    <color name="bg">#F9F9F9</color>
+    <color name="detail_circle_gray">#838383</color>
+    <color name="detail_circle_gray_light">#33838383</color>
+    <color name="detail_circle_green">#4BA000</color>
+    <color name="detail_circle_green_light">#334BA000</color>
+    <color name="detail_circle_orange">#F54E21</color>
+    <color name="detail_circle_orange_light">#33f54f21</color>
+    <color name="line">#EBEBEB</color>
+    <color name="border">#f5f5f5</color>
+    <color name="transparent">#00000000</color>
+    <color name="rent_bg">#CC4BA000</color>
+    <color name="sale_bg">#CCF54E21</color>
+    <color name="about_title">#353535</color>
+    <color name="about_text">#8b8b8b</color>
+    <color name="forgot_bg">#FFFFFF</color>
+    <color name="light_blue">#888D9F</color>
+    <color name="bg_bottom_bar">#FFFFFF</color>
+    <color name="light_gray">#A2A2A2</color>
+    <color name="view_login">#80FFFFFF</color>
+    <color name="add_properties_text">#727272</color>
+    <color name="white">#FFFFFF</color>
+    <color name="filter_line">#ECF0F3</color>
+
+    <color name="profile_title">#515151</color>
+    <color name="profile_sub_title">#8A8A8A</color>
+    <color name="profile_sub_title_hint">#8A8A8A</color>
+    <color name="profile_divider">#D2D2D4</color>
+
+    <color name="navigation_default">#666666</color>
+    <color name="navigation_default_icon">#b2b2b2</color>
+    <color name="navigation_checked">#4BA000</color>
+
+    <color name="switch_activated">#F54E21</color>
+    <color name="switch_normal">#888D9F</color>
+
+    <color name="filter_title_text">#626262</color>
+    <color name="seek_bar_default">#868686</color>
+    <color name="seek_bar_check">#4BA000</color>
+
+    <color name="dialog_color">#4BA000</color>
+    <color name="dialog_text">#353535</color>
+    <color name="dialog_white_text">#FFFFFF</color>
+</resources>

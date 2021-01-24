@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GET TO GO</string>
+    <string name="android_api_key">ANDROID_API_KEY</string>
+    <string name="google_maps_key">AIzaSyBIUaBvvlXdLIxkhAVVqQJC7jhSg98g7NE</string>
+    <string name="server_url">https://immense-tar.000webhostapp.com</string>
+
+    <!--Login/Sign Up-->
+    <string name="name_login">Name</string>
+    <string name="email_login">Email</string>
+    <string name="password_login">Password</string>
+
+    <string name="home">Home</string>
+    <string name="logout">logout</string>
+
+
+    <string name="phone_login">Phone</string>
+    <string name="address_title">Address</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="loading_title">Loading...</string>
+    <string name="forgot_password">Forgot Password ?</string>
+    <string name="no_account">Don\'t Have an Account? </string>
+    <string name="sign_up">Create account</string>
+    <string name="register">Register</string>
+    <string name="already_account">Already Have an Account? </string>
+    <string name="SomethingWrong">"Oops ! some thing went wrong "</string>
+    <string name="error_msg">Oops! some thing went wrong</string>
+
+</resources>
