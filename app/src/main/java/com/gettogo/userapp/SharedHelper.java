@@ -1,4 +1,4 @@
-package com.nearcabs.userapp;
+package com.gettogo.userapp;
 
 import android.content.Context;
 import android.content.SharedPreferences;

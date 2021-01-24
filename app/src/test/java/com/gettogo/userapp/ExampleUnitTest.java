@@ -1,4 +1,4 @@
-package com.nearcabs.userapp;
+package com.gettogo.userapp;
 
 import org.junit.Test;
 

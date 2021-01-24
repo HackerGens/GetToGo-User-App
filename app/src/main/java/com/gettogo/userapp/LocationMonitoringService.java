@@ -1,4 +1,4 @@
-package com.nearcabs.userapp;
+package com.gettogo.userapp;
 import android.Manifest;
 import android.annotation.SuppressLint;
 import android.app.Service;

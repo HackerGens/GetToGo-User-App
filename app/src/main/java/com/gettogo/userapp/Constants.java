@@ -1,4 +1,4 @@
-package com.nearcabs.userapp;
+package com.gettogo.userapp;
 
 
 public class Constants {

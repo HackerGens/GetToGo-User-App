@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nearcabs.userapp">
+    package="com.gettogo.userapp">
 
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_GPS" />
@@ -19,7 +19,7 @@
         android:supportsRtl="true"
         android:usesCleartextTraffic="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SplashActivity"
+        <activity android:name="com.gettogo.userapp.SplashActivity"
             android:theme="@style/Theme.Design.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -35,15 +35,15 @@
             android:name="org.apache.http.legacy"
             android:required="false" />
 
-        <service android:name="LocationMonitoringService" />
+        <service android:name="com.gettogo.userapp.LocationMonitoringService" />
 
         <activity
-            android:name=".RegisterActivity"
+            android:name="com.gettogo.userapp.RegisterActivity"
             android:label="@string/app_name">
 
         </activity>
-        <activity android:name=".MapsActivity" />
-        <activity android:name=".LoginActivity" />
+        <activity android:name="com.gettogo.userapp.MapsActivity" />
+        <activity android:name="com.gettogo.userapp.LoginActivity" />
     </application>
 
 </manifest>
